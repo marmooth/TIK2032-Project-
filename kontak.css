@@ -1,0 +1,14 @@
+body {
+    background-color: #80da8b;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.container-kontak {
+    background-color: #1d451e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

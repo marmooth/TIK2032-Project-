@@ -1,0 +1,14 @@
+body {
+    background-color: #1c6920;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.container-galeri {
+    background-color: #0a4503;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
